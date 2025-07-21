@@ -29,12 +29,6 @@
   },
   "$themes": [],
   "$metadata": {
-    "tokenSetOrder": [
-      "color",
-      "fontSizes",
-      "primary",
-      "secondary",
-      "button"
-    ]
+    "tokenSetOrder": ["color", "fontSizes", "primary", "secondary", "button"]
   }
 }
