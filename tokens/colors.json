@@ -27,8 +27,21 @@
       "type": "sizing"
     }
   },
+  "login-button": {
+    "xs": {
+      "value": "10px",
+      "type": "sizing"
+    }
+  },
   "$themes": [],
   "$metadata": {
-    "tokenSetOrder": ["color", "fontSizes", "primary", "secondary", "button"]
+    "tokenSetOrder": [
+      "color",
+      "fontSizes",
+      "primary",
+      "secondary",
+      "button",
+      "login-button"
+    ]
   }
 }
