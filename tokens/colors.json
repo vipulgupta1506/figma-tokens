@@ -21,13 +21,20 @@
   },
   "primary": {},
   "secondary": {},
+  "button": {
+    "xs": {
+      "value": "4px",
+      "type": "sizing"
+    }
+  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
       "color",
       "fontSizes",
       "primary",
-      "secondary"
+      "secondary",
+      "button"
     ]
   }
 }
