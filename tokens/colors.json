@@ -7,6 +7,10 @@
     "secondary": {
       "value": "#64748b",
       "type": "color"
+    },
+    "xs": {
+      "value": "4px",
+      "type": "sizing"
     }
   },
   "fontSizes": {
@@ -33,6 +37,12 @@
       "type": "sizing"
     }
   },
+  "checkbox": {
+    "border-width": {
+      "value": "5",
+      "type": "borderWidth"
+    }
+  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
@@ -41,7 +51,8 @@
       "primary",
       "secondary",
       "button",
-      "login-button"
+      "login-button",
+      "checkbox"
     ]
   }
 }
