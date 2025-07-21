@@ -1,0 +1,33 @@
+{
+  "color": {
+    "primary": {
+      "value": "#1d4ed8",
+      "type": "color"
+    },
+    "secondary": {
+      "value": "#64748b",
+      "type": "color"
+    }
+  },
+  "fontSizes": {
+    "body": {
+      "value": "16px",
+      "type": "fontSizes"
+    },
+    "heading": {
+      "value": "24px",
+      "type": "fontSizes"
+    }
+  },
+  "primary": {},
+  "secondary": {},
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "color",
+      "fontSizes",
+      "primary",
+      "secondary"
+    ]
+  }
+}
